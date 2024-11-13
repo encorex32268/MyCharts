@@ -190,7 +190,7 @@ fun ExpenseLineChart(
         if (isShowHelperLine){
             drawCircle(
                 color = Color.Gray,
-                radius = 10f, 
+                radius = 10f,
                 center = Offset(
                     x = viewPortLeft,
                     y = viewPortBottom
